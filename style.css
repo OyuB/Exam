@@ -1,0 +1,117 @@
+body {
+font-family: 'Poppins', sans-serif;
+margin: o auto;
+position: relative;
+width: 1920px;
+}
+header{
+    margin-top: 0;
+    width: 1920px;
+    height: 1080px;
+    background-image: url(/Users/evening2/Desktop/Exam/image/Background-image.png);
+    background-size:cover;
+    background-position:center center;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;
+    gap: 30px;
+    justify-content: space-between;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400px;
+}
+h1{
+    width: 492px;
+    height: 105px;
+    padding-top: 463px;
+    font-size: 70px;
+    text-align: center;
+    color: #000;
+}
+.container{
+    margin: 0 auto;
+}
+.group1{
+    display: flex;
+    position: relative;
+}
+h2{
+    position: relative;
+    color: #ffffff;
+    font-size: 30px;
+}
+.img{
+    flex-grow: 1;
+    height: 486px;
+    width: 864px;
+    justify-content: center;
+}
+.first{
+    background-image: url(/Users/evening2/Desktop/Exam/image/image5.png) ;
+}
+.second{
+    background-image:url(/Users/evening2/Desktop/Exam/image/image6.png);
+
+}
+h2{
+    font-size: 32px;
+    text-decoration: none;
+    width: 307px;
+    height: 48px;
+    color: #000;
+}
+.group2{
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+}
+.side{
+    flex-grow: 1;
+    height: 480px;
+    width: 480px;
+    text-align: center;
+}
+.a{
+    background-image: url(/Users/evening2/Desktop/Exam/image/img1.png);
+    background-position: center center;
+    background-size: cover;
+}
+.b{
+    background-image: url(/Users/evening2/Desktop/Exam/image/img2.png);
+    background-position: center center;
+    background-size: cover;
+  
+}
+.c{
+    background-image: url(/Users/evening2/Desktop/Exam/image/img3.png);
+    background-position: center center;
+    background-size: cover;
+}
+.d{
+    background-image: url(/Users/evening2/Desktop/Exam/image/img4.png);
+    background-position: center center;
+    background-size: cover;
+}
+.e{
+    background-image: url(/Users/evening2/Desktop/Exam/image/pic1.png);
+    background-position: center center;
+    background-size: cover;
+}
+.f{
+    background-image: url(/Users/evening2/Desktop/Exam/image/pic2.png);
+    background-position: center center;
+    background-size: cover;
+}
+.g{
+    background-image: url(/Users/evening2/Desktop/Exam/image/pic3.png);
+    background-position: center center;
+    background-size: cover;
+}
+.l{
+    background-image: url(/Users/evening2/Desktop/Exam/image/pic4.png);
+    background-position: center center;
+    background-size: cover;
+}
